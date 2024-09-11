@@ -1,0 +1,2 @@
+# VirtualGameCoin
+VGC
