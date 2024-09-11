@@ -1,2 +1,2 @@
 # VirtualGameCoin
-VGC
+VGC Team WorkSpace
