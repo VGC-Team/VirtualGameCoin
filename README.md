@@ -1,5 +1,6 @@
 # VirtualGameCoin
 VGC Team WorkSpace
+VGCTeam released the world's first Android mobile POW miner tool！
 
 VirtualGameCoin was founded in 2020. Prior to the development of the VGC blockchain, we issued the VGC token on the TRON(trc20) network. Now, the VGC token(trc20) can be bridged to the VGC blockchain using the VGC blockchain bridge.
 
